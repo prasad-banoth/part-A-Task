@@ -1,4 +1,4 @@
-# 🧩 Full-Stack Docker Assignment – PART-A
+# 🧩 Full-Stack Docker Assignment – PART-A-task
 
 ## 👤 Submitted by:
 **Name:** Prasad Banoth 
